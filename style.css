@@ -7,6 +7,7 @@ body {
 .stButton>button {
     background-color: #333333;
     color: #FFFFFF;
+    height: "10px";
 }
 
 .stTextInput>div>input {

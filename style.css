@@ -1,0 +1,49 @@
+/* styles.css */
+body {
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+.stButton>button {
+    background-color: #333333;
+    color: #FFFFFF;
+}
+
+.stTextInput>div>input {
+    background-color: #333333;
+    color: #FFFFFF;
+    border: 1px solid #FFFFFF;
+}
+
+.stTextInput>label {
+    color: #FFFFFF;
+}
+
+.stHeader, .stSubheader {
+    color: #FFFFFF;
+}
+
+
+/* style.css */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+h1 {
+    color: #4CAF50;
+    font-size: 2.5em;
+}
+
+textarea {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+code {
+    font-size: 1.2em;
+    background-color: #f3f3f3;
+    padding: 10px;
+    border-radius: 8px;
+    color: #333;
+}
